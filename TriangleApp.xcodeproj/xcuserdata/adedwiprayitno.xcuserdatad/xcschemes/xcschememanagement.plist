@@ -4,10 +4,30 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TriangleApp.xcscheme_^#shared#^_</key>
+		<key>TriangleApp.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2A7139132533404B00DC8A98</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A7139292533405200DC8A98</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A7139342533405300DC8A98</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
